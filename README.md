@@ -1,4 +1,4 @@
-# yash_03_sys
+# yash=03-sys
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">Cloud Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/yash-03-sys/yash_03_sys/blob/8c9e1cf2d17664e647aec7699efd7e4eaee056c4/dis.PNG">
