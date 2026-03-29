@@ -1,6 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Yash </h1>
-<h3 align="center">Cloud Computing</h3>
+<h1 align="center">Hey 👋, I'm Yash </h1>
+<h3 align="center">MCA (Generative AI) Student | AI & ML Enthusiast  
+Building projects in RAG, Chatbots, Cloud Computing
+Skilled in Python, TensorFlow, OpenCV & LLMs  
+Passionate about solving real-world problems using AI </h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
